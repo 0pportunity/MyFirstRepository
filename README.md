@@ -1,2 +1,4 @@
 # MyFirstRepository
 SkillFactory
+*abcdef*
+***ABCDEF***
